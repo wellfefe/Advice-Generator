@@ -28,9 +28,9 @@ Os usuários devem conseguir:
 
 ### Screenshot
 
-![layout mobile](./src/Design/image-1.png)
+![layout mobile](src/Design/image-1.png)
 
-![alt desktop](./src/Design/image.png)
+![layout desktop](src/Design/image.png)
 
 ### Links
 
